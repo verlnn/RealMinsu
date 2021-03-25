@@ -17,4 +17,7 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=RealMinsu&repo=TypingGame)](https://github.com/RealMinsu/TypingGame)
   [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=RealMinsu&repo=RandomRock-paper-scissors)](https://github.com/RealMinsu/RandomRock-paper-scissors)
   
+  [![-](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&theme=nord&username=RealMinsu&repo=RealMinsu.github.io)](https://github.com/RealMinsu/RealMinsu.github.io)
+  
+  
 </div>
