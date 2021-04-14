@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### Here is Minsu's GitHub
 
-ff
-ff
 <a href="https://github.com/RealMinsu/Coading-Party" target="_blank">Coading Party Certificate</a>
 
 <br>
