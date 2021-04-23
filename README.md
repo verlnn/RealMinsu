@@ -3,7 +3,7 @@
 
 <a href="https://github.com/RealMinsu/Coading-Party" target="_blank">Coading Party Certificate</a>
 
-<br>
+<br>c
 
 <p align="center">
   <a href="#">
