@@ -3,7 +3,7 @@
 ╭◜◝ ͡ ◜◝╮   
 ( ＊•◡•＊　)   
 ╰◟◞ ͜ ◟◞╯ 
-
+f
 <a href="https://github.com/RealMinsu/Coading-Party" target="_blank">Coading Party Certificate</a>
 
 <br>
